@@ -10,4 +10,11 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+	
+	login(){
+		0000000
+		
+		55555555
+		66666666
+	}
 }
